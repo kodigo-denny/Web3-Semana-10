@@ -6,10 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <script src="Empleado.js"></script>
+    <script src="TimeSheetReport.js"></script>
     <script>
         let empleado = new Empleado("Denny", "Herrera")
         console.log(empleado.getName())
-        console.log(empleado.informeHorasTrabajoSemanal(4))
+        TimeSheetReport.informeHorasTrabajoSemanal(5, empleado)
     </script>
 </head>
 <body>

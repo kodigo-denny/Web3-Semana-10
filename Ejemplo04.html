@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="Order.js"></script>
+    <script src="Shipping.js"></script>
+    <script src="Ground.js"></script>
+    <script src="Air.js"></script>
+    <script src="Maritimo.js"></script>
+    <script>
+        let tierra = new Ground()
+        let aire = new Air()
+        let maritimo = new Maritimo()
+
+        let orden1 = new Order(tierra)
+        orden1.total = 90
+        orden1.peso = 10
+
+        console.log("Ground: " + orden1.getShippingCost())
+        
+        orden1.setShippingType(aire)
+        console.log("Air: " + orden1.getShippingCost())
+
+        orden1.setShippingType(maritimo)
+        console.log("Maritimo: " + orden1.getShippingCost())
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
