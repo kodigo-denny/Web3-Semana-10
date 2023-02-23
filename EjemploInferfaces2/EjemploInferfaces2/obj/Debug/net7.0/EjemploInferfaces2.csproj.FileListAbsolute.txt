@@ -1,0 +1,15 @@
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\obj\Debug\net7.0\EjemploInferfaces2.csproj.AssemblyReference.cache
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\obj\Debug\net7.0\EjemploInferfaces2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\obj\Debug\net7.0\EjemploInferfaces2.AssemblyInfoInputs.cache
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\obj\Debug\net7.0\EjemploInferfaces2.AssemblyInfo.cs
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\obj\Debug\net7.0\EjemploInferfaces2.csproj.CoreCompileInputs.cache
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\bin\Debug\net7.0\EjemploInferfaces2.exe
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\bin\Debug\net7.0\EjemploInferfaces2.deps.json
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\bin\Debug\net7.0\EjemploInferfaces2.runtimeconfig.json
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\bin\Debug\net7.0\EjemploInferfaces2.dll
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\bin\Debug\net7.0\EjemploInferfaces2.pdb
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\obj\Debug\net7.0\EjemploInferfaces2.dll
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\obj\Debug\net7.0\refint\EjemploInferfaces2.dll
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\obj\Debug\net7.0\EjemploInferfaces2.pdb
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\obj\Debug\net7.0\EjemploInferfaces2.genruntimeconfig.cache
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\EjemploInferfaces2\obj\Debug\net7.0\ref\EjemploInferfaces2.dll

@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Principio4
+{
+    internal interface ICloudStorageProvider
+    {
+        public void StoreFile(string name);
+
+        public void GetFile(string name);
+    }
+}

@@ -1,0 +1,15 @@
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\bin\Debug\net7.0\Principio5.exe
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\bin\Debug\net7.0\Principio5.deps.json
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\bin\Debug\net7.0\Principio5.runtimeconfig.json
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\bin\Debug\net7.0\Principio5.dll
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\bin\Debug\net7.0\Principio5.pdb
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\obj\Debug\net7.0\Principio5.csproj.AssemblyReference.cache
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\obj\Debug\net7.0\Principio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\obj\Debug\net7.0\Principio5.AssemblyInfoInputs.cache
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\obj\Debug\net7.0\Principio5.AssemblyInfo.cs
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\obj\Debug\net7.0\Principio5.csproj.CoreCompileInputs.cache
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\obj\Debug\net7.0\Principio5.dll
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\obj\Debug\net7.0\refint\Principio5.dll
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\obj\Debug\net7.0\Principio5.pdb
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\obj\Debug\net7.0\Principio5.genruntimeconfig.cache
+C:\Users\Kodigo\source\repos\EjemploInferfaces2\Principio5\obj\Debug\net7.0\ref\Principio5.dll
