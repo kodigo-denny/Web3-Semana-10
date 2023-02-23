@@ -7,12 +7,16 @@
     <title>Document</title>
     <script src="Ejemplo05.js"></script>
     <script>
-        let doc1 = new Document("datos", "archivo.txt")
-        let doc2 = new ReadOnlyDocument("datos", "archivo2.txt")
+        let doc1 = new WritableDocument("datos", "archivo.txt")
+        let doc2 = new Document("datos", "archivo2.txt")
+        let doc3 = new Document("datos", "archivo3.txt")
+        let doc4 = new WritableDocument("datos", "archivo4.txt")
 
         let proyecto = new Project()
-        proyecto.documents.push(doc1)
-        proyecto.documents.push(doc2)
+        proyecto.agregarArchivo(doc1)
+        proyecto.agregarSoloLectura(doc2)
+        proyecto.agregarSoloLectura(doc3)
+        proyecto.agregarArchivo(doc4)
 
         proyecto.openAll()
         proyecto.saveAll()
